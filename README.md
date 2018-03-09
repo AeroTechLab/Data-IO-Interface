@@ -11,4 +11,4 @@ On a terminal, get the [GitHub code repository](https://github.com/LabDin/Data-I
 
 ## Documentation
 
-[Doxygen](http://www.stack.nl/~dimitri/doxygen/)-generated detailed methods documentation is available on a [GitHub Page](https://labdin.github.io/Data-IO-Interface/classDATA__IO__INTERFACE.html)
+[Doxygen](http://www.stack.nl/~dimitri/doxygen/)-generated detailed methods documentation is available on a [GitHub Page](https://labdin.github.io/Data-IO-Interface/data__io_8h.html)
