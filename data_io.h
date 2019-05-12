@@ -53,7 +53,12 @@ DataHandle DataIO_LoadStorageData( const char* storagePath );
 /// @brief Overwrite default root storage path from which data sources will be searched                              
 /// @param[in] basePath path (e.g. directory or address) to desired storage root
 void DataIO_SetBaseStoragePath( const char* basePath );
-                                                                           
+                    
+/// @brief List all loadable entriens in given storage location
+/// @param[in] storagePath path (e.g. directory or address) to data storage
+/// @return vector of storage entry names (NULL on errors), static buffer, not thread-safe
+const char** DataIO_ListStorageDataEntries( const char* storagePath );
+
 /// @brief Parse given string to fill implementation specific data structure
 /// @param[in] dataString string containing data to be parsed
 /// @return reference/pointer to created and filled data structure (NULL on errors)

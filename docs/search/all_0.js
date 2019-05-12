@@ -14,6 +14,7 @@ var searchData=
   ['dataio_5fgetstringvalue',['DataIO_GetStringValue',['../data__io_8h.html#abe530d9becf1d09526523cd71cdaa28b',1,'data_io.h']]],
   ['dataio_5fgetsubdata',['DataIO_GetSubData',['../data__io_8h.html#a2ce71a6e6f9349bc0a8c161a2d0a1956',1,'data_io.h']]],
   ['dataio_5fhaskey',['DataIO_HasKey',['../data__io_8h.html#a815cc4cccc26b3f4bb539555cdca94a3',1,'data_io.h']]],
+  ['dataio_5fliststoragedataentries',['DataIO_ListStorageDataEntries',['../data__io_8h.html#ad64f553cbe2514d6d14b3e007a33a5b9',1,'data_io.h']]],
   ['dataio_5floadstoragedata',['DataIO_LoadStorageData',['../data__io_8h.html#a212ce3b9b7b9e870f843d1528fe66fc7',1,'data_io.h']]],
   ['dataio_5floadstringdata',['DataIO_LoadStringData',['../data__io_8h.html#ab42b3665fe4dae0280528df6d4d80f37',1,'data_io.h']]],
   ['dataio_5fsetbasestoragepath',['DataIO_SetBaseStoragePath',['../data__io_8h.html#ac2fd1b1301cd6aa6f623af32dd78e628',1,'data_io.h']]],
@@ -21,5 +22,5 @@ var searchData=
   ['dataio_5fsetnumericvalue',['DataIO_SetNumericValue',['../data__io_8h.html#a7357de8c207449bf7e5ed7243197db88',1,'data_io.h']]],
   ['dataio_5fsetstringvalue',['DataIO_SetStringValue',['../data__io_8h.html#a08fb5ba5e9fccd1b0e4ff377417fb121',1,'data_io.h']]],
   ['dataio_5funloaddata',['DataIO_UnloadData',['../data__io_8h.html#ac6e7df4a0aa328b2eb9ca87546551e2e',1,'data_io.h']]],
-  ['data_2dio_2dinterface',['Data-IO-Interface',['../index.html',1,'']]]
+  ['data_20i_2fo_20interface',['Data I/O Interface',['../index.html',1,'']]]
 ];

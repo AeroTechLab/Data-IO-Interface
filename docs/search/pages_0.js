@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['data_2dio_2dinterface',['Data-IO-Interface',['../index.html',1,'']]]
+  ['data_20i_2fo_20interface',['Data I/O Interface',['../index.html',1,'']]]
 ];
